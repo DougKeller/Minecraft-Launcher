@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "New Friends 2k17",
+      "name" : "1.12 Mixed Pack",
+      "version" : "2017-11-28-01-00-09",
+      "location" : "1.12-mixed-pack.json",
+      "priority" : 0
+    }
+  ]
+}
