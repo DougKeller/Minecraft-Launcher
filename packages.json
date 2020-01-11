@@ -4,8 +4,15 @@
     {
       "title" : "New Friends 2k17",
       "name" : "1.12 Mixed Pack",
-      "version" : "2018-06-09-01-34-13",
+      "version" : "2020-01-11-00-06-47",
       "location" : "1.12-mixed-pack.json",
+      "priority" : 0
+    },
+    {
+      "title" : "Minecraft with Friends - 2020 Edition",
+      "name" : "1.12.2 w/ Biome Bundle",
+      "version" : "2020-01-11-00-06-24",
+      "location" : "1.12.2-w-biome-bundle.json",
       "priority" : 0
     }
   ]
