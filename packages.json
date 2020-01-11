@@ -2,17 +2,17 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Minecraft 2020 Edition",
-      "name" : "1.12.2 Biome Bundle",
-      "version" : "2020-01-11-10-55-16",
-      "location" : "1.12.2-biome-bundle.json",
+      "title" : "New Friends 2k17",
+      "name" : "1.12 Mixed Pack",
+      "version" : "2020-01-11-10-58-04",
+      "location" : "1.12-mixed-pack.json",
       "priority" : 0
     },
     {
-      "title" : "New Friends 2k17",
-      "name" : "1.12 Mixed Pack",
-      "version" : "2020-01-11-00-06-47",
-      "location" : "1.12-mixed-pack.json",
+      "title" : "Minecraft 2020 Edition",
+      "name" : "1.12.2 Biome Bundle",
+      "version" : "2020-01-11-10-57-50",
+      "location" : "1.12.2-biome-bundle.json",
       "priority" : 0
     }
   ]
