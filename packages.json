@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Minecraft - 2020 Edition",
-      "name" : "1.12.2 w/ Biome Bundle",
-      "version" : "2020-01-11-00-14-00",
-      "location" : "1.12.2-w-biome-bundle.json",
+      "title" : "Minecraft 2020 Edition",
+      "name" : "1.12.2 Biome Bundle",
+      "version" : "2020-01-11-10-55-16",
+      "location" : "1.12.2-biome-bundle.json",
       "priority" : 0
     },
     {
